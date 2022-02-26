@@ -48,8 +48,6 @@ const util = require('util')
 const yts = require( 'yt-search')
 const ytdl = require("ytdl-core")
 const zee = require('api-alphabot')
-const { Primbon } = require('scrape-primbon')
-const primbon = new Primbon()
 
 //library
 const { simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('../lib/functions')
