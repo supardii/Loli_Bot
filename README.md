@@ -44,7 +44,7 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/riychuhuy"><img src="https://avatars.githubusercontent.com/u/?v=4" height="128" width="128" /></a>
+  <a href="https://github.com/riychuhuy"><img src="https://avatars.githubusercontent.com/u/riychuhuy?v=4" height="128" width="128" /></a>
   <a href="https://github.com/YogGanz"><img src="https://avatars.githubusercontent.com/u/87578425?v=4" height="128" width="128" /></a>
   <a href="https://github.com/zeeone-ofc"><img src="https://avatars.githubusercontent.com/u/87578425?v=4" height="128" width="128" /></a>
 </p>
