@@ -44,9 +44,7 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/riychuhuy"><img src="https://avatars.githubusercontent.com/u/riychuhuy?v=4" height="128" width="128" /></a>
-  <a href="https://github.com/YogGanz"><img src="https://avatars.githubusercontent.com/u/87578425?v=4" height="128" width="128" /></a>
-  <a href="https://github.com/zeeone-ofc"><img src="https://avatars.githubusercontent.com/u/87578425?v=4" height="128" width="128" /></a>
+<a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a> | [![Yoga](http://github.com/YogGanz.png?size=100)](http://github.com/YogGanz) | [![ZeeoneOfc](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc)
 </p>
 
 ## Bugs and Tester
@@ -117,7 +115,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 - [Official Group](https://chat.whatsapp.com/JeyL5h04lEFJVCMNHdzrVL)
 
 # Thanks to
-<a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a> | [![Yoga](http://github.com/YogGanz.png?size=100)](http://github.com/YogGanz)
+<a href="https://github.com/riychuhuy"><img src="https://github.com/riychuhuy.png?size=100" width="100" height="100"></a> | [![Yoga](http://github.com/YogGanz.png?size=100)](http://github.com/YogGanz) | [![ZeeoneOfc](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc)
 ----|----
-[Riy](https://github.com/riychuhuy) | [Yoga](http://github.com/YogGanz)
-Owner of Riych-Bot | Yoga : Yg Bantuin Gw
+[Riy](https://github.com/riychuhuy) | [Yoga](http://github.com/YogGanz) | [ZeeoneOfc](http://github.com/zeeone-ofc)
+Owner of Riych-Bot | Yang bantuin gua | Yang punya base
