@@ -24,10 +24,10 @@
   <a href="https://github.com/riychuhuy/Riych-Bot#donate">Donate</a>
 
 <p align='center'>
-   <a href="https://twitter.com/rashidsiregar28"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/rashidsiregar28"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/rashidsiregar28"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/628127668234?text=hello"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
+   <a href="https://twitter.com/riychuhuy"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/riychh"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/riychuhuy"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/6281575886399?text=hello"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
 </P>
 </p>
 </div>
@@ -41,18 +41,6 @@
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 >
-
-<h3 align="center">Made by :</h3>
-<p align="center">
-- ZeeoneOfc ( Yang punya base )
-- ( https://github.com/zeeone-ofc )
-
-- Yoga ( Yang bantuin nambah fitur )
-- ( https//github.com/YogGanz )
-
-- Riych-Uhuy ( Owner of Riych-Bot )
-- ( https://github.com/riychuhuy )
-</p>
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
@@ -68,7 +56,7 @@
 ## For Windows
 ```bash
 git clone https://github.com/riychuhuy/Riych-Bot.git
-cd chikabot
+cd Riych-Bot
 npm install
 node main
 ```
@@ -78,7 +66,7 @@ termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg wget
 git clone https://github.com/riychuhuy/Riych-Bot.git
-cd chikabot
+cd Riych-Bot
 npm install
 node main
 ```
@@ -87,7 +75,7 @@ node main
 ```bash
 apt install nodejs git ffmpeg wget
 git clone https://github.com/riychuhuy/Riych-Bot.git
-cd chikabot
+cd Riych-Bot
 npm install
 node main
 ```
