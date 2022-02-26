@@ -4,10 +4,10 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="CHIKA BOT MULTI DEVICE" src="https://img.shields.io/badge/CHIKA BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RIYCH-BOT" src="https://img.shields.io/badge/RIYCH-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/riychuhuy/Riych-Bot"><img title="Author" src="https://img.shields.io/badge/Author-rashidsiregar28-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/riychuhuy/Riych-Bot"><img title="Author" src="https://img.shields.io/badge/Author-riychuhuy-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychuhuy/Riych-Bot"><img title="Followers" src="https://img.shields.io/github/followers/rashidsiregar28?color=blue&style=flat-square"></a>
@@ -44,9 +44,14 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-- ZeeoneOfc ( Yang punya base ) | ( https://github.com/zeeone-ofc )
-- Yoga ( Yang bantuin nambah fitur ) | ( https//github.com/YogGanz )
-- Riych-Uhuy ( Owner of Riych-Bot ) | ( https://github.com/riychuhuy )
+- ZeeoneOfc ( Yang punya base )
+- ( https://github.com/zeeone-ofc )
+
+- Yoga ( Yang bantuin nambah fitur )
+- ( https//github.com/YogGanz )
+
+- Riych-Uhuy ( Owner of Riych-Bot )
+- ( https://github.com/riychuhuy )
 </p>
 
 ## Bugs and Tester
@@ -117,6 +122,12 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 - [Official Group](https://chat.whatsapp.com/JeyL5h04lEFJVCMNHdzrVL)
 
 # Thanks to
-- ZeeoneOfc ( Yang punya base ) | ( https://github.com/zeeone-ofc )
-- Yoga ( Yang bantuin nambah fitur ) | ( https//github.com/YogGanz )
-- Riych-Uhuy ( Owner of Riych-Bot ) | ( https://github.com/riychuhuy )
+
+- ZeeoneOfc ( Yang punya base )
+- ( https://github.com/zeeone-ofc )
+
+- Yoga ( Yang bantuin nambah fitur )
+- ( https//github.com/YogGanz )
+
+- Riych-Uhuy ( Owner of Riych-Bot )
+- ( https://github.com/riychuhuy )
