@@ -27,7 +27,7 @@
    <a href="https://twitter.com/riychuhuy"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/riychh"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.facebook.com/riychuhuy"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/6281575886399?text=hello"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
+   <a href="https://wa.me/6281215320837?text=hello"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
 </P>
 </p>
 </div>
@@ -44,8 +44,8 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/628127668234)
-* Kamu bisa testing fitur Chika-Bot [disini](https://wa.me/6289513435428?text=.menu)
+* Info Lebih Lanjut, Chat [owner-ananda](https://wa.me/6281215320837)
+* Kamu bisa testing fitur Loli_-Bot [disini](https://wa.me/6282137914790?text=.menu)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -103,11 +103,11 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/riychuhuy)
-- [Paypal](https://www.paypal.com/paypalme/riychuhuy)
+- [Saweria](https://saweria.co/)
+- [Paypal](https://www.paypal.com)
 
 # Official Group
-- [Official Group](https://chat.whatsapp.com/KrgvHKOhjsFI503cpRm45P)
+- [Official Group](https://chat.whatsapp.com/LcgnBtXnHbeJx6VOgQyoxw)
 
 # Thanks to
 
@@ -117,5 +117,5 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 - Yoga ( Yang bantuin nambah fitur )
 - ( https//github.com/YogGanz )
 
-- Riych-Uhuy ( Owner of Riych-Bot )
-- ( https://github.com/riychuhuy )
+- Ananda Ganz ( Owner of Loli_Botz )
+- ( https://github.com/AnandaGanz-bot)
