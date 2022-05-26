@@ -4,10 +4,10 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="Loli_Bot" src="https://img.shields.io/badge/RIYCH-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Loli_Bot" src="https://img.shields.io/badge/Loli_Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/riychuhuy/Loli_Bot"><img title="Author" src="https://img.shields.io/badge/Author-Ananda-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AnandaGanz-botLoli_Bot"><img title="Author" src="https://img.shields.io/badge/Author-Ananda-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/AnandaGanz-bot/Loli_Bot"><img title="Followers" src="https://img.shields.io/github/followers/rashidsiregar28?color=blue&style=flat-square"></a>
