@@ -4,30 +4,30 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="RIYCH-BOT" src="https://img.shields.io/badge/RIYCH-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Loli_Bot" src="https://img.shields.io/badge/RIYCH-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/riychuhuy/Riych-Bot"><img title="Author" src="https://img.shields.io/badge/Author-riychuhuy-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/riychuhuy/Loli_Bot"><img title="Author" src="https://img.shields.io/badge/Author-Ananda-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/riychuhuy/Riych-Bot"><img title="Followers" src="https://img.shields.io/github/followers/rashidsiregar28?color=blue&style=flat-square"></a>
-<a href="https://github.com/riychuhuy/Riych-Bot"><img title="Stars" src="https://img.shields.io/github/stars/riychuhuy/Riych-Bot?color=red&style=flat-square"></a>
-<a href="https://github.com/riychuhuy/Riych-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychuhuy/Riych-Bot?color=red&style=flat-square"></a>
-<a href="https://github.com/riychuhuy/Riych-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychuhuy/Riych-Bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/AnandaGanz-bot/Loli_Bot"><img title="Followers" src="https://img.shields.io/github/followers/rashidsiregar28?color=blue&style=flat-square"></a>
+<a href="https://github.com/AnandaGanz-bot/Loli_Bot"><img title="Stars" src="https://img.shields.io/github/stars/AnandaGanz-bot/Loli_Bot?color=red&style=flat-square"></a>
+<a href="https://github.com/AnandaGanz-bot/Loli_Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AnandaGanz-bot/Loli_Bot?color=red&style=flat-square"></a>
+<a href="https://github.com/AnandaGanz-bot/Loli_Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AnandaGanz-bot/Loli_Bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/riychuhuy/Riych-Bot#requirements">Requirements</a> •
-  <a href="https://github.com/riychuhuy/Riych-Bot#instalasi">Installation</a> •
-  <a href="https://github.com/riychuhuy/Riych-Bot#thanks-to">Thanks to</a> •
-  <a href="https://github.com/riychuhuy/Riych-Bot#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/riychuhuy/Riych-Bot#donate">Donate</a>
+  <a href="https://github.com/AnandaGanz-bot/Loli_Bot#requirements">Requirements</a> •
+  <a href="https://github.com/AnandaGanz-bot/Loli_Bot#instalasi">Installation</a> •
+  <a href="https://github.com/AnandaGanz-bot/Loli_Bot#thanks-to">Thanks to</a> •
+  <a href="https://github.com/AnandaGanz-bot/Loli_Bot#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/AnandaGanz-bot/Loli_Bot#donate">Donate</a>
 
 <p align='center'>
-   <a href="https://twitter.com/riychuhuy"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/riychh"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/riychuhuy"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/6281215320837?text=hello"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
+   <a href="https://twitter.com/"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/ananda_ganz"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/6285725012403?text=hello"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
 </P>
 </p>
 </div>
@@ -35,17 +35,17 @@
 
 ---
 
-# Riych-Bot Whatsapp
+# Loli_Bot Whatsapp
 ## Information
-> Riychbot whatsapp using a Baileys library.
+> Bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 >
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-ananda](https://wa.me/6281215320837)
-* Kamu bisa testing fitur Loli_-Bot [disini](https://wa.me/6282137914790?text=.menu)
+* Info Lebih Lanjut, Chat [owner-ananda](https://wa.me/6285725012403)
+* Kamu bisa testing fitur Loli_Bot [disini](https://wa.me/6282137914790?text=.menu)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -55,8 +55,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/riychuhuy/Riych-Bot.git
-cd Riych-Bot
+git clone https://github.com/AnandaGanz-bot/Loli_Bot.git
+cd Loli_Bot
 npm install
 node main
 ```
@@ -65,8 +65,8 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg wget
-git clone https://github.com/riychuhuy/Riych-Bot.git
-cd Riych-Bot
+git clone https://github.com/AnandaGanz-bot/Loli_Bot.git
+cd Loli_Bot
 npm install
 node main
 ```
@@ -74,17 +74,17 @@ node main
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg wget
-git clone https://github.com/riychuhuy/Riych-Bot.git
-cd Riych-Bot
+git clone https://github.com/AnandaGanz-bot/Loli_Bot.git
+cd Loli_Bot
 npm install
 node main
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/riychuhuy/Riych-Bot/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
-- Change botName on [this section](https://github.com/riychuhuy/Riych-Bot/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
-- You can edit list and display menu or donate on [this section](https://github.com/riychuhuy/Riych-Bot)
-- You can add fiture on [this section](https://github.com/riychuhuy/Riych-Bot/tree/main/message)
+- Change ownerNumber on [this section](https://github.com/AnandaGanz-bot/Loli_Bot/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
+- Change botName on [this section](https://github.com/AnandaGanz-bot/Loli_Bot/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
+- You can edit list and display menu or donate on [this section](https://github.com/AnandaGanz-bot/Loli_Bot)
+- You can add fiture on [this section](https://github.com/AnandaGanz-bot/Loli_Bot/tree/main/message)
 
 
 ## Installing the FFmpeg for Windows
@@ -107,7 +107,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 - [Paypal](https://www.paypal.com)
 
 # Official Group
-- [Official Group](https://chat.whatsapp.com/LcgnBtXnHbeJx6VOgQyoxw)
+- [Official Group](https://chat.whatsapp.com/BkxbwERGX9x0mAhAsiDWxP)
 
 # Thanks to
 
