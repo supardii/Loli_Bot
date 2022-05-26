@@ -26,9 +26,9 @@ require('./command/case.js')
 nocache('./command/case.js', module => console.log(`${module} is now updated!`))
 
 const starts = async (loli = new WAConnection()) => {
-    loli.logger.level = 'warn'
-    loli.version = [2, 2143, 3]
-    loli.browserDescription = [ 'Loli_Bot', 'Chrome', '3.0' ]
+    haruka.logger.level = 'warn'
+    haruka.version = [2, 2143, 3]
+    haruka.browserDescription = [ 'Loli_Bot', 'Chrome', '3.0' ]
 	CFonts.say('Loli_Bot', {
 		font: 'block',
     	color: ['#ff9c00'],
@@ -45,24 +45,24 @@ const starts = async (loli = new WAConnection()) => {
     })
 
     fs.existsSync('./session.json') && loli.loadAuthInfo('./session.json')
-    loli.on('connecting', () => {
+    haruka.on('connecting', () => {
         start('2', 'Connecting...')
     })
-    loli.on('open', () => {
+    haruka.on('open', () => {
         success('2', 'Connected')
     })
     await haruka.connect({timeoutMs: 30*1000})
         fs.writeFileSync('./session.json', JSON.stringify(loli.base64EncodedAuthInfo(), null, '\t'))
 
-    loli.on('chat-update', async (message) => {
-        require('./command/case.js')(loli, message)
+    haruka.on('chat-update', async (message) => {
+        require('./command/case.js')(haruka, message)
     })
 
-	loli.on('group-participants-update', async (anu) => {
+	haruka.on('group-participants-update', async (anu) => {
 		console.log(anu)
 		try {
 						const sendButLoc = async (id, text1, desc1, gam1, but = [], options = {}) => {
-							const mediaxxaaaa = await loli.prepareMessage(id, gam1, MessageType.location, {thumbnail: gam1})
+							const mediaxxaaaa = await haruka.prepareMessage(id, gam1, MessageType.location, {thumbnail: gam1})
 							var mhan = mediaxxaaaa.message["ephemeralMessage"] ? mediaxxaaaa.message.ephemeralMessage : mediaxxaaaa
 							const buttonMessages = {
 								locationMessage: mhan.message.locationMessage,
@@ -71,7 +71,7 @@ const starts = async (loli = new WAConnection()) => {
 								buttons: but,
 								headerType: 6
 								}
-							loli.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
+							haruka.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 						}
 						const mdata = await haruka.groupMetadata(anu.jid)
 						num = anu.participants[0]
