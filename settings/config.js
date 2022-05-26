@@ -6,7 +6,7 @@ global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
 global.ownername ="Lord Ananda"
-global.ownernumber = "6281215320837"
+global.ownernumber = "6285725012403"
 global.botname = "Loli_Botz"
 global.thumbnail = fs.readFileSync("./thumbnail.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
@@ -15,7 +15,7 @@ global.limit = {
 		free:20,
 		premium:1000
 	}
-global.session_name = "session.json"
+global.session_name = "session.loli.json"
 
 
 let file = require.resolve(__filename)
