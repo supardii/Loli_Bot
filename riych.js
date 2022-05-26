@@ -25,16 +25,16 @@ const { uploadImages } = require('./lib/uploadimage')
 require('./command/case.js')
 nocache('./command/case.js', module => console.log(`${module} is now updated!`))
 
-const starts = async (haruka = new WAConnection()) => {
-    haruka.logger.level = 'warn'
-    haruka.version = [2, 2143, 3]
-    haruka.browserDescription = [ 'Haruka-Bot', 'Chrome', '3.0' ]
-	CFonts.say('Riychbot', {
+const starts = async (loli = new WAConnection()) => {
+    loli.logger.level = 'warn'
+    loli.version = [2, 2143, 3]
+    loli.browserDescription = [ 'Loli_Bot', 'Chrome', '3.0' ]
+	CFonts.say('Loli_Bot', {
 		font: 'block',
     	color: ['#ff9c00'],
     	align: 'center',
 		})
-	CFonts.say(`Bot WhatsApp Created By Riych-Uhuy`, {
+	CFonts.say(`Bot WhatsApp Created By Ananda`, {
 		font: 'console',
 		align: 'center',
 		gradient: ['red', 'magenta']
@@ -44,25 +44,25 @@ const starts = async (haruka = new WAConnection()) => {
         console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan qr maks 20 detik sebelum qr expired'))
     })
 
-    fs.existsSync('./session.json') && haruka.loadAuthInfo('./session.json')
-    haruka.on('connecting', () => {
+    fs.existsSync('./session.json') && loli.loadAuthInfo('./session.json')
+    loli.on('connecting', () => {
         start('2', 'Connecting...')
     })
-    haruka.on('open', () => {
+    loli.on('open', () => {
         success('2', 'Connected')
     })
     await haruka.connect({timeoutMs: 30*1000})
-        fs.writeFileSync('./session.json', JSON.stringify(haruka.base64EncodedAuthInfo(), null, '\t'))
+        fs.writeFileSync('./session.json', JSON.stringify(loli.base64EncodedAuthInfo(), null, '\t'))
 
-    haruka.on('chat-update', async (message) => {
-        require('./command/case.js')(haruka, message)
+    loli.on('chat-update', async (message) => {
+        require('./command/case.js')(loli, message)
     })
 
-	haruka.on('group-participants-update', async (anu) => {
+	loli.on('group-participants-update', async (anu) => {
 		console.log(anu)
 		try {
 						const sendButLoc = async (id, text1, desc1, gam1, but = [], options = {}) => {
-							const mediaxxaaaa = await haruka.prepareMessage(id, gam1, MessageType.location, {thumbnail: gam1})
+							const mediaxxaaaa = await loli.prepareMessage(id, gam1, MessageType.location, {thumbnail: gam1})
 							var mhan = mediaxxaaaa.message["ephemeralMessage"] ? mediaxxaaaa.message.ephemeralMessage : mediaxxaaaa
 							const buttonMessages = {
 								locationMessage: mhan.message.locationMessage,
@@ -71,7 +71,7 @@ const starts = async (haruka = new WAConnection()) => {
 								buttons: but,
 								headerType: 6
 								}
-							haruka.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
+							loli.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 						}
 						const mdata = await haruka.groupMetadata(anu.jid)
 						num = anu.participants[0]
@@ -83,7 +83,7 @@ const starts = async (haruka = new WAConnection()) => {
 								ppmem = 'https://telegra.ph/file/f8df36078279304745bae.png'
 								}
 						try {
-							ppgc = await haruka.getProfilePicture(anu.jid);
+							ppgc = await loli.getProfilePicture(anu.jid);
 							} catch (e) {
 								ppgc = 'https://telegra.ph/file/d4c05638fa7886a1d8060.jpg'
 								}
