@@ -1,8 +1,7 @@
 {
-  "name": "Riychbot",
+  "name": "lolibot",
   "version": "4.0.0",
-  "description": "By Riych-Uhuy",
-  "main": "riych.js",
+  "description"loli.js",
   "directories": {
     "lib": "lib"
   },
@@ -13,7 +12,7 @@
   "author": "ZEEONE",
   "dependencies": {
     "api-alphabot":"1.0.2",
-    "@adiwajshing/baileys": "^3.5.3", 
+    "@adiwajshing/baileys": "^4.0.1", 
     "awesome-phonenumber": "^2.64.0",
     "async": "^3.2.0",
     "axios": "^0.21.1",
@@ -41,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc/Haruka.git"
+    "url": "git+https://github.com/AnandaGanz-bot/Loli_Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/zeeoneofc/Haruka/issues"
+    "url": "https://github.com/AnandaGanz-bot/Loli_Bot/issues"
   },
-  "homepage": "https://github.com/zeeoneofc/Haruka#readme"
+  "homepage": "https://github.com/AnandaGanz-bot/Loli_Bot#readme"
 }
