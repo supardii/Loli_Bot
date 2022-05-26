@@ -423,9 +423,9 @@ exports.sewabot = (prefix, salam, pushname) =>{
 
 ╭─⬣ Minat? Chat
 │• Sering² Donasi
-│• wa.me/6281575886399
-│• Instagram : @riychh
-│• YouTube : RIYCH OFC
+│• wa.me6285725012403
+│• Instagram : @ananda_ganz7
+│• YouTube : none
 ╰─⬣
 `
 }
