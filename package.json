@@ -1,13 +1,13 @@
 {
   "name": "lolibot",
   "version": "4.0.0",
-  "description"loli.js",
+  "description": "Whatsapp bot using library baileys",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node riych.js"
+    "start": "node loli.js"
   },
   "author": "ZEEONE",
   "dependencies": {
